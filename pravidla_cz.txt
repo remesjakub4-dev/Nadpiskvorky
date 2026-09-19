@@ -1,0 +1,7 @@
+Nadpiškvorky se hrají ve dvou hráčích na 3x3 síti 3x3 sítí (dále také "síti sítí").
+Cílem hry je vytvořit trojici svého znaku na řádku, sloupci či úhlopříčce jedné z 9 sítí.
+Hráči se střídají po tahu umístěním svého znaku na jedno políčko jedné sítě. První tah může být umístěn kamkoliv, ale každý další tah musí dodržovat následující podmínku: 3x3 síť, do které se hraje musí být ve stejné pozici v síti sítí jako byl předchozí tah v 3x3 síti.
+---
+Např.: Adam začal tím, že zahrál do pravého horního rohu levé prostřední sítě. Tudíž Bartoloměj musí hrát do pravé horní sítě. Bartoloměj se rozhodne zahrát do prostředního políčka. Na tahu je zase Adam a musí hrát na libovolné políčko prostřední sítě. 
+---
+Pokud hráč nemůže táhnout (protože už je každé políčko zaplněno) končí hra remízou.

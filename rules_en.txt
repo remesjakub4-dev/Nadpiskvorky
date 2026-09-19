@@ -1,0 +1,7 @@
+Hyper-Tic-Tac-Toe is a game played between two players on a 3x3 grid of 3x3 grid (also called "grid of grids").
+The goal of the game is to create a triple of your sign on either row, column or diagonal of a 3x3 grid.
+The players alternate in placing a their sign on a single tile of a single 3x3 grid. The first sign can be placed freely on any tile. Every following tile has a single additional restriction: the 3x3 grid has to be in same spot relative to the grid of grids as the last placed sign is relative to its 3x3 grid.
+---
+Example: Adam starts the game by playing on the top right spot of the center left grid. Therefore Bob must play within top right grid. Bob chooses to play on the center of the top right grid and thus passes the turn back to Adam who has to play inside the centermost grid
+---
+If a player is unable to play his turn (because the grid is full) the game ends in a draw
