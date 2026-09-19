@@ -1,4 +1,5 @@
 # Nadpiškvorky/Hyper-Tic-Tac-Toe
+
 ## Popis/Description  
 Cílem je vytvořit variantu známé hry "piškvorky" s plně automatickým (algoritmem řízeným) protihráčem.  
 Variantu, kterou jsem si vybral jsou tzv. "nadpiškvorky". Více o nich v textovém dokumentu "pravidla_cz.txt"  
