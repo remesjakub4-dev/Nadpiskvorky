@@ -1,13 +1,15 @@
-# Nadpiškvorky/Hyper-Tic-Tac-Toe
-
-## Popis/Description  
+Nadpiškvorky/Hyper-Tic-Tac-Toe
+==============================
+Popis/Description  
+-----------------  
 Cílem je vytvořit variantu známé hry "piškvorky" s plně automatickým (algoritmem řízeným) protihráčem.  
 Variantu, kterou jsem si vybral jsou tzv. "nadpiškvorky". Více o nich v textovém dokumentu "pravidla_cz.txt"  
----  
-The goel of this project is to create a variation of the popular game "Tic-Tac-Toe" with an automated (algorithmical) opponent  
-The variation I chose was so called "Hyper-Tic-Tac-Toe". More on them in the text file "rules_en.txt"  
+
+---
+The goel of this project is to create a variation of the popular game "Tic-Tac-Toe" with an automated (algorithmical) opponent.The variation I chose was so called "Hyper-Tic-Tac-Toe". More on them in the text file "rules_en.txt"  
   
-## Stažení/Installation  
+Stažení/Installation  
+--------------------
 1. Zkopírujte a někam si uložte soubor "Nadpiškvorky.py"  
 2. Ujistěte se, že máte stažený Python (ideálně verzy 1.13.7) napsáním "python -V" do příkazové řádky.  
     Pokud Python stažený nemáte jak si ho stáhnout naleznete [zde](https://www.python.org/downloads/)  
@@ -20,7 +22,8 @@ The variation I chose was so called "Hyper-Tic-Tac-Toe". More on them in the tex
 3. Check if Pygame-ce is installed (ideally version 2.5.7). This can be done by writing "pip show pygame-ce" into the command line.    
     If not instaal it. How to do it can be found [here](https://github.com/pygame-community/pygame-ce#readme)  
   
-## Použití/Usage
+Použití/Usage
+-------------
 0. (dobrovolně) Přečtěte si pravidla hry v "pravidla_cz.txt"  
 1. Zjistěte adresu souboru "Nadpiškvorky.py",  
     otevřete příkazovou řádku a zajistěte, aby aktivní adresář byl tam, kde je soubor "Nadpiškvorky.py"  
